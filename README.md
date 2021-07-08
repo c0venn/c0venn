@@ -1,8 +1,7 @@
 ### Welcome! 👋
 
-<p align="center"><img src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-mobile.mp4" alt="Synthwave" height="300" width="500"></p>
-<!--
-**c0venn/c0venn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-mobile.mp4" alt="Synthwave" height="300" width="500"></p>
+
 
 ⚡who ¿?
 
