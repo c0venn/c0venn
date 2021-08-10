@@ -8,8 +8,8 @@ https://user-images.githubusercontent.com/79546811/126506832-772cdd87-591d-471c-
 
 chilean, 20 yrs old.
 - 🌱 I’m currently living in Chile.
-- ⚡ I´m Student in 4Geeks Academy CL.
-- I´m Learning AudioVisual Producction.
+- ⚡ I´m Student at 4Geeks Academy CL.
+- ⚡ I´m Learning AudioVisual Producction.
 <br>
 
 <h2>SKILLS</h2>
