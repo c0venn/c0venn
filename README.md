@@ -6,10 +6,7 @@ https://user-images.githubusercontent.com/79546811/126506832-772cdd87-591d-471c-
 
 ⚡who ¿?
 
-chilean, 20 yrs old.
-- 🌱 I’m currently living in Chile.
-- ⚡ I´m Student at 4Geeks Academy CL.
-- ⚡ I´m Learning AudioVisual Producction.
+chilean, 20 yrs old. I’m currently living in Chile. Web Developer 👾 c0ven AudioVisual Producction 🎬🎥.
 <br>
 
 <h2>SKILLS</h2>
