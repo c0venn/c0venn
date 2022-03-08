@@ -4,9 +4,9 @@ https://user-images.githubusercontent.com/79546811/126506832-772cdd87-591d-471c-
 
 <br>
 
-⚡who ¿?
+<h1>⚡who ¿?</h1>
 
-chilean, 20 yrs old. I’m currently living in Chile. Web Developer 👾 c0ven AudioVisual Producction 🎬🎥.  DJ Rookie 🎛🎹🎵🎧 c0venn.booking@gmail.com
+chilean, 20 yrs old. I’m currently living in Chile, Working in a company as a Software Developer Full Stack👾 
 <br>
 
 <h2>Developer SKILLS</h2>
