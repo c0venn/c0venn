@@ -16,6 +16,5 @@ SQL
 FLASK
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0venn)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0venn&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0venn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c0venn)](https://github.com/anuraghazra/github-readme-stats)
